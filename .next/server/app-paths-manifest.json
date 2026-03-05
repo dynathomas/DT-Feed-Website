@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/vulnerability-feed/page": "app/vulnerability-feed/page.js",
+  "/vulnerability-feed/vulnerabilities/[id]/page": "app/vulnerability-feed/vulnerabilities/[id]/page.js"
+}
